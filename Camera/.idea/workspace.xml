@@ -204,6 +204,14 @@
       <option name="presentableId" value="Default" />
       <updated>1559488394573</updated>
     </task>
+    <task id="LOCAL-00001" summary="CAMARA COMPLETA">
+      <created>1559499324868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559499324868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -234,6 +242,10 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Preview" sideWeight="0.4991708" weight="0.32995737" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CAMARA COMPLETA" />
+    <option name="LAST_COMMIT_MESSAGE" value="CAMARA COMPLETA" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/file_paths.xml">
